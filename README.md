@@ -8,7 +8,7 @@ Konfiguration, Nutzung und technischen Architektur.
 ## Dokumentation
 
 - [Installation](docs/installation.md)
-- [Konfiguration](docs/configuration.md)
+- [API](docs/api.md)
 - [Anwendung und Nutzung](docs/usage.md)
 - [Technische Architektur](docs/architecture.md)
 
